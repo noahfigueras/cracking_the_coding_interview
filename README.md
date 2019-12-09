@@ -1,2 +1,2 @@
 # cracking_the_coding_interview
-Algorithm excercices from the book
+All the Algorithm excercices from the book solved by me in Python
